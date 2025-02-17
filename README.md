@@ -16,6 +16,22 @@ $ yarn start
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
+
+Due to [Docusaurus limitations](https://github.com/facebook/docusaurus/issues/7377), when using the above command, only one locale can be supported at a time, and the language dropdown will not work locally. For side-by-side comparison, run the build command (see below), followed by 
+
+```
+$ yarn serve
+```
+
+to serve the pages on a local server.
+
+
+To test a specific individual locale, run
+
+```
+$ yarn start --locale zh
+```
+
 ### Build
 
 ```
