@@ -19,14 +19,16 @@ To enable **Get Help**:
 
     ![6B-3](/img/instructors/6B-3.png)
 
-    Note that you can also enter a custom prompt to guide the style of the feedback generated.
+    You can also enter a custom prompt to guide the style of the feedback generated.
 
     ![6B-4](/img/instructors/6B-4.png)
 
-Note that:
+:::info
 
 - When **Get Help** is disabled at the course level, the feature will be disabled throughout the course.
 - Once **Get Help** is enabled at the course level, you will have the option to enable it at the Assessment or Question levels.
+
+:::
 
 Below is the student view of the **Get Help** feature:
 

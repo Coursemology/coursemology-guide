@@ -8,7 +8,11 @@ You may use Codaveri for automated grading feedback for coding questions.
 
 First, you will need to enable **Codaveri Evaluation and Feedback** under **Course Settings**.
 
-Note that you may enable for specific assessment, or specific question.
+:::info
+
+If you prefer, you may enable it only for specific assessment(s), or for specific question(s).
+
+:::
 
 ![6A-1](/img/instructors/6A-1.png)
 

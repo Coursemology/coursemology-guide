@@ -15,5 +15,5 @@ To create MCQs:
 
 Creating MRQ is similar, except that you should check more than 1 correct choice for MRQ.
 
-Note that you may also convert the MCQ to MRQ by clicking on the **Convert to MRQ** button at the bottom right. You may do likewise for MRQ to MCQ.
+You may also convert the MCQ to MRQ by clicking on the **Convert to MRQ** button at the bottom right. You may do likewise for MRQ to MCQ.
 ![4B-2](/img/instructors/4B-2.png)

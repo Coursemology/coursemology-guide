@@ -7,9 +7,11 @@ Use the multiple reference timeline feature to let different classes access the 
 
 1.  Enable the **Multiple Reference Timeline** feature.
 
-    ![4E-1](/img/instructors/4E-1.png)
+    :::info
 
-    <span style={{ color: 'red' }}>If you don’t see the Multiple Reference Timeline on your Components page, it means the feature isn’t enabled. Contact your instance admin to enable it.</span>
+    If you don’t see the Multiple Reference Timeline on your Components page, it means the feature isn’t enabled. Contact your instance admin to enable it.
+
+    :::
 
 2.  Create a new timeline for each class.
 

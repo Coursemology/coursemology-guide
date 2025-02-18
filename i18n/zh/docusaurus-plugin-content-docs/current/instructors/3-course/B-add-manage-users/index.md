@@ -5,11 +5,11 @@ title: 3b. Add / Manage Users
 
 You may perform the following actions on **Manage Users** page.
 
-[[Invite Users Individually]](#invite-users-individually) [[Invite Users From File]](#invite-users-using-excel-file) [[Upgrade User Roles]](#upgrade-user-roles)
+- [Invite Users Individually](#invite-users-individually)
+- [Invite Users From File](#invite-users-from-file)
+- [Upgrade User Roles](#upgrade-user-roles)
 
-<a id="invite-users-individually"></a>
-
-#### Invite Users Individually:
+#### Invite Users Individually
 
 1. Click on **Manage Users** on the sidebar.
 2. Click on **Invite Users** tab.
@@ -23,9 +23,7 @@ Invited users will receive the following email.
 
 ![3B-2](/img/instructors/3B-2.png)
 
-<a id="invite-users-using-excel-file"></a>
-
-#### Invite Users From File:
+#### Invite Users From File
 
 1. Click on **Invite from file**.
 2. Download the **Template File**.
@@ -36,9 +34,7 @@ You will see the users under **Invitations** tab.
 
 ![3B-3](/img/instructors/3B-3.gif)
 
-<a id="upgrade-user-roles"></a>
-
-#### Upgrade User Roles:
+#### Upgrade User Roles
 
 To upgrade the user to **Teaching Assistant**, **Manager**, or **Owner**:
 

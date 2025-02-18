@@ -5,7 +5,11 @@ title: 1b. 管理您的账户设置
 sidebar_label: 1b. 账户设置
 ---
 
-<span style={{ color: 'red' }}><b>注意：</b>新注册用户默认设置为学生。</span>
+:::info
+
+新注册用户默认设置为学生
+
+:::
 
 登录 Coursemology。
 
