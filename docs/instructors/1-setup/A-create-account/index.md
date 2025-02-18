@@ -1,7 +1,8 @@
 ---
 sidebar_position: 1
 slug: /instructor-guide/setup/create-account
-title: 1a. Create Account
+title: 1a. Creating your Coursemology account
+sidebar_label: 1a. Create Account
 ---
 
 To register as a user:

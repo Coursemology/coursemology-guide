@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Coursemology 指南",
+    "description": "导航栏中的标题"
+  },
+  "logo.alt": {
+    "message": "Coursemology 标志",
+    "description": "导航栏标志的替代文本"
+  },
+  "item.label.Main Site": {
+    "message": "主站",
+    "description": "导航栏项，标签为主站"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "导航栏项，标签为 GitHub"
+  }
+}

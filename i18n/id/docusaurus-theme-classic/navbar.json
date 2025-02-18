@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Panduan Coursemology",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logo Coursemology",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Student": {
+    "message": "Siswa",
+    "description": "Navbar item with label Student"
+  },
+  "item.label.Instructor": {
+    "message": "Instruktur",
+    "description": "Navbar item with label Instructor"
+  },
+  "item.label.Main Site": {
+    "message": "Situs Utama",
+    "description": "Navbar item with label Main Site"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

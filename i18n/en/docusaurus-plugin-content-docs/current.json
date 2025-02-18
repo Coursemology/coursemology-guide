@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.guideSidebar.category.Instructor Guide": {
+    "message": "Instructor Guide",
+    "description": "The label for category Instructor Guide in sidebar guideSidebar"
+  },
+  "sidebar.guideSidebar.category.1. Setup": {
+    "message": "1. Setup",
+    "description": "The label for category 1. Setup in sidebar guideSidebar"
+  },
+  "sidebar.guideSidebar.category.3. Course": {
+    "message": "3. Course",
+    "description": "The label for category 3. Course in sidebar guideSidebar"
+  },
+  "sidebar.guideSidebar.category.4. Assessments": {
+    "message": "4. Assessments",
+    "description": "The label for category 4. Assessments in sidebar guideSidebar"
+  },
+  "sidebar.guideSidebar.category.5. Submissions": {
+    "message": "5. Submissions",
+    "description": "The label for category 5. Submissions in sidebar guideSidebar"
+  },
+  "sidebar.guideSidebar.category.6. Codaveri": {
+    "message": "6. Codaveri",
+    "description": "The label for category 6. Codaveri in sidebar guideSidebar"
+  },
+  "sidebar.guideSidebar.category.7. Additional": {
+    "message": "7. Additional",
+    "description": "The label for category 7. Additional in sidebar guideSidebar"
+  }
+}
