@@ -17,7 +17,16 @@ The admin has full-access to the Coursemology instance, whereas Instructors can 
 * To delete a course:
   1. Click on **Courses** tab
   2. Under **Actions**, click on the trash can icon to delete. 
-  3. You will be prompted to confirm deletion. Note that deletion is irreversible. 
+  3. You will be prompted to confirm deletion.
+ 
+  <br/>
+
+  :::warning
+
+  Deletion of courses is **IRREVERSIBLE.** <br/>
+  Make sure you have downloaded everything you still need from the course before confirming.
+
+  :::
 <br/><br/>
 * To activate / deactivate components in courses across the instance:
   1. Click on **Components** tab

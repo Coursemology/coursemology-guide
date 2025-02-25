@@ -17,5 +17,5 @@ Below is the student view of the timed assessment.
 Student will see his/her individualized timer at the top right hand corner.
 ![4G-2](/img/instructors/4G-2.png)
 
-Note that when time's up, the submission will submitted automatically.
+When time is up, the submission will be submitted automatically.
 
