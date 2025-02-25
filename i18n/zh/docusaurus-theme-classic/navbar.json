@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Coursemology 指南",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Coursemology 标志",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Main Site": {
+    "message": "主站",
+    "description": "Navbar item with label Main Site"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "导航栏项，标签为 GitHub"
+  }
+}

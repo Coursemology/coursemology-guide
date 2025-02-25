@@ -1,25 +1,28 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const lightCodeTheme = require("prism-react-renderer").themes.github;
+const darkCodeTheme = require("prism-react-renderer").themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+
+  // these strings are not yet translatable
+  // https://github.com/facebook/docusaurus/issues/4542
   title: "Coursemology Guide",
   tagline: "Your role in Coursemology is",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://coursemology.org",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "coursemology", // Usually your GitHub org/user name.
+  projectName: "coursemology2", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -29,7 +32,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", "zh", "ko"],
   },
 
   presets: [
@@ -39,10 +42,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
           showReadingTime: true,
@@ -71,27 +70,13 @@ const config = {
         },
         items: [
           {
-            type: "docSidebar",
-            sidebarId: "guideSidebar",
-            position: "left",
-            label: "Student",
-          },
-          {
-            type: "docSidebar",
-            sidebarId: "guideSidebar",
-            position: "left",
-            label: "Instructor",
-          },
-          // { to: "/blog", label: "Blog", position: "left" },
-          {
             href: "https://coursemology.org",
             label: "Main Site",
             position: "right",
           },
           {
-            href: "https://github.com/Coursemology/coursemology2",
-            label: "GitHub",
-            position: "right",
+            type: 'localeDropdown',
+            position: 'right',
           },
         ],
       },
