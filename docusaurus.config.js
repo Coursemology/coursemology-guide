@@ -1,8 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const lightCodeTheme = require("prism-react-renderer").themes.github;
+const darkCodeTheme = require("prism-react-renderer").themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -72,11 +72,6 @@ const config = {
           {
             href: "https://coursemology.org",
             label: "Main Site",
-            position: "right",
-          },
-          {
-            href: "https://github.com/Coursemology/coursemology2",
-            label: "GitHub",
             position: "right",
           },
           {
